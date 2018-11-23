@@ -14,7 +14,7 @@
         name: 'app',
         data() {
             return {
-                msg: 'Gestion Machines à café',
+                msg: 'Gestion  machines à café',
                 msg2: 'Consulter la liste des machines',
                 msg3: 'Voir la carte'
             }
